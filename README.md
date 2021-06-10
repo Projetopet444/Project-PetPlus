@@ -7,11 +7,11 @@
         Para executar:
        </h2>
       <h5>
-        npm add express (pode ser ultilizado o yarn se preferir)
-        Body-parser (para entender as requisições do json e a url)
-        npm add body-parser
-        criptação de senha
-        npm install bcrypt
+        npm add express (pode ser ultilizado o yarn se preferir)<br>
+        Body-parser (para entender as requisições do json e a url)<br>
+        npm add body-parser<br>
+        criptação de senha<br>
+        npm install bcrypt<br>
       </h5>
     </td>
   </tr>
