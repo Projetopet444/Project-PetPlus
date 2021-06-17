@@ -1,0 +1,68 @@
+.vacina-container {
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 30px;
+    margin: 32px auto;
+  }
+  
+.vacina-container header {
+    display: flex;
+    align-items: center;
+  }
+  
+.vacina-container span {
+    font-size: 30px;
+    margin-left: 24px;
+  }
+
+.vacina-container header a {
+    width: 310px;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+
+.vacina-container .content {
+    width: 100%;
+    padding: 50px;
+    background: #f0f0f5;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.vacina-container .content section {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+.vacina-container .content section h1 {
+    margin: 10px 0 20px;
+    font-size: 32px;
+  }
+.vacina-container .content section p {
+    font-size: 18px;
+    color: #737380;
+    line-height: 32px;
+  }
+  
+.vacina-container .content form {
+    width: 100%;
+    max-width: 450px;
+  }
+  
+.vacina-container .content form input,
+.vacina-container .content form textarea {
+    margin-top: 8px;
+  }
+  
+.vacina-container .content form .input-group {
+    display: flex;
+  }
+  
+.vacina-container .content form ,.input-group input + input {
+    margin-left: 8px;
+  }

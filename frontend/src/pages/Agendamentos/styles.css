@@ -1,0 +1,25 @@
+.agendamentos-container {
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 30px;
+    margin: 32px auto;
+  }
+  
+.agendamentos-container header {
+    display: flex;
+    align-items: center;
+  }
+  
+.agendamentos-container span {
+    font-size: 20px;
+    margin-left: 24px;
+  }
+.agendamentos-container header img {
+    height: 64px;
+  }
+  
+.agendamentos-container header a {
+    width: 310px;
+    margin-left: auto;
+    margin-top: 0;
+  }
